@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-box{
+    display: flex;
+    position: relative;
+    background:linear-gradient();
+    height: 210px;
+    width: 35rem;
+    padding: 1rem;
+    margin: 123px 34px 34px 165px;
+    border-radius: 23px;
+    /* color: black; */
+
+
+}
+
+.card-box h1{
+    color: rgb(62, 60, 60);
+    margin-left: 23px;
+    font-weight: 400;
+    font-style:oblique;
+    font-display:initial;
+    text-shadow: 2rem;
+
+
+}
+
+.card-box .image-block img{
+    display: block; 
+     position: relative;
+    width: 3rem;
+    margin-top: 0.7em;
+    margin-left: 12rem;
+    border-radius: 34px;
+
+    
+}
